@@ -1,2 +1,2 @@
-Display current directory contents in a long format
-task3. The long format
+Display current directory contents, including hidden files (starting with .)Use the long format.
+task4. Hidden files
