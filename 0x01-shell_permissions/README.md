@@ -1,1 +1,1 @@
-sets the mode of the file
+mirror_permissions
