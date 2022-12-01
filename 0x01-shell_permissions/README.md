@@ -1,1 +1,1 @@
-execute
+multiple_permissions
