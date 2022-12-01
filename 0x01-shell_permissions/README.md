@@ -1,1 +1,1 @@
-permission
+set mode
